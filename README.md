@@ -99,36 +99,42 @@
 
 ## 🖼️ Visuals
 
-### Floorplan
-<img width="1920" height="1080" alt="floorplan" src="https://github.com/user-attachments/assets/6d8f4d71-4676-4143-b3e9-fb9504271aee" />
-
 ### Port Placement
-<img width="1920" height="1080" alt="port_placement" src="https://github.com/user-attachments/assets/8d4c2236-aa32-4087-bf9b-e79a442ac674" />
+<img width="1920" height="1080" alt="port_placement" src="https://github.com/user-attachments/assets/457cfc79-f7ce-4c99-b761-c8d6dce36b55" />  
+
+### macros Placed
+<img width="1920" height="1080" alt="macros_placed_chiptop" src="https://github.com/user-attachments/assets/165e4fa3-90ba-41d4-8832-d2892f51b722" />
+
+### physical cells Placed
+<img width="1920" height="1080" alt="physical_cells_chiptop" src="https://github.com/user-attachments/assets/b4d0b469-79c9-423d-ac6f-0b9c62dde0de" />
+
 
 ### Power Plan
-<img width="1920" height="1080" alt="power_plan" src="https://github.com/user-attachments/assets/51fc6dcd-2bad-4680-9a5d-5aa9c3f38607" />
+<img width="1920" height="1080" alt="power_plan_chiptop" src="https://github.com/user-attachments/assets/438e4a76-c5e6-4397-9aec-788d42cc7cb2" />
+
 
 ### Standard Cells Placed
-<img width="1920" height="1080" alt="standard_cells_placed" src="https://github.com/user-attachments/assets/ef71d86a-4cac-4c6c-ab3b-b65425ec4911" />
-
-### Metal Layers (M9 → M1)
-<img width="1920" height="1080" alt="layer9" src="https://github.com/user-attachments/assets/3f8e7873-c058-46e2-9e12-c667107e8c80" />
-<img width="1920" height="1080" alt="layer8" src="https://github.com/user-attachments/assets/734e750c-1eff-46a6-a982-2b9b61660c34" />
-<img width="1920" height="1080" alt="layer6" src="https://github.com/user-attachments/assets/6071a323-2aa3-46af-9c50-f5303637a259" />
-<img width="1920" height="1080" alt="layer5" src="https://github.com/user-attachments/assets/a7e73291-ed43-4959-bebe-82baec6110ef" />
-<img width="1920" height="1080" alt="layer4" src="https://github.com/user-attachments/assets/556b759f-6b2b-4877-a94f-cfd9fd29f75f" />
-<img width="1920" height="1080" alt="layer3" src="https://github.com/user-attachments/assets/6a8355bc-e4bb-4066-84d1-bb90da78963f" />
-<img width="1920" height="1080" alt="layer2" src="https://github.com/user-attachments/assets/94b885dc-c99d-4b41-ba42-9ac502d5f055" />
-<img width="1920" height="1080" alt="layer2" src="https://github.com/user-attachments/assets/7f143544-e027-45e3-bd3f-4b353da2a627" />
-
-### Pre-CTS
-<img width="1920" height="1080" alt="pre_cts" src="https://github.com/user-attachments/assets/45fc096e-3edd-4f55-a163-167bcc45b611" />
+<img width="1920" height="1080" alt="stdcells_chiptop" src="https://github.com/user-attachments/assets/89835b95-8658-4055-9123-0279b62641c2" />
 
 ### Post-CTS
-<img width="1920" height="1080" alt="post_cts" src="https://github.com/user-attachments/assets/a2395760-0ddb-4358-a48d-67031bf13313" />
+<img width="1920" height="1080" alt="cts_chiptop" src="https://github.com/user-attachments/assets/1553c2d0-ec86-41ac-adc0-af88842c3e37" />
+
+### routed
+<img width="1920" height="1080" alt="routed_chiptop" src="https://github.com/user-attachments/assets/dc662fbd-fc64-4645-ae07-4cdb541404b3" />
+
+### Metal Layers (M9 → M1)
+<img width="1920" height="1080" alt="stdcells_chiptop" src="https://github.com/user-attachments/assets/48f75e7f-3e5e-4d2c-9836-07a9f73ffa28" />
+<img width="1920" height="1080" alt="m9" src="https://github.com/user-attachments/assets/7e7e0046-4464-4e71-8278-ae1fb9345d3d" />
+<img width="1920" height="1080" alt="m8" src="https://github.com/user-attachments/assets/0513e491-a8d0-4309-a349-b6204529c096" />
+<img width="1920" height="1080" alt="m7" src="https://github.com/user-attachments/assets/2c3cd557-1e3e-48b0-87d0-01443e93744e" />
+<img width="1920" height="1080" alt="m5" src="https://github.com/user-attachments/assets/35db367d-e448-4710-8b2e-64bd106eed1e" />
+<img width="1920" height="1080" alt="m4" src="https://github.com/user-attachments/assets/c156824c-775e-4ad6-ac94-ec439de8ba80" />
+<img width="1920" height="1080" alt="m3" src="https://github.com/user-attachments/assets/109f0d63-6fa7-49a8-b761-e66d203f40a4" />
+<img width="1920" height="1080" alt="m2" src="https://github.com/user-attachments/assets/329b0b68-c3aa-483e-bbc2-dc75d77b0836" />
+<img width="1920" height="1080" alt="m1" src="https://github.com/user-attachments/assets/b7b506ea-9dbb-4e6b-8d5f-58d8fb6c84e5" />
 
 ### Clock Tree
-<img width="1920" height="1080" alt="clocktree" src="https://github.com/user-attachments/assets/e2886077-1b8c-41e9-b0c3-297077b713c0" />
+<img width="1920" height="1080" alt="clock_Tree_chiptop" src="https://github.com/user-attachments/assets/624fbcd3-7781-47aa-928c-1eb5b2e63fb7" />
 
 ---
 
