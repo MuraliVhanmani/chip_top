@@ -1,4 +1,4 @@
-# chip_top
+# CHIP_TOP
 <div align="center">
 
 # RTL to GDSII Physical Design
